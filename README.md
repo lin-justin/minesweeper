@@ -7,12 +7,8 @@ This was mainly for me to learn Julia.
 # Usage
 
 ```
-git clone https:
-```
-
-If Julia is added to your PATH, you can run as so:
-
-```
+> git clone https://github.com/lin-justin/minesweeper.git
+> cd minesweeper
 > julia minesweeper.jl
 Welcome to Minesweeper
 
